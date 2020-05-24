@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://feitocomarte.com/blogs/projetos-recentes.atom</id>
+  <link rel="alternate" type="text/html" href="https://feitocomarte.com/blogs/projetos-recentes"/>
+  <link rel="self" type="application/atom+xml" href="https://feitocomarte.com/blogs/projetos-recentes/tagged/terrier.atom"/>
+  <title>Feito com arte &amp; pets - Projetos Recentes</title>
+  <updated>2019-10-27T15:09:00-03:00</updated>
+  <author>
+    <name>Feito com arte &amp; pets</name>
+  </author>
+  <entry>
+    <id>https://feitocomarte.com/blogs/projetos-recentes/projeto-theo</id>
+    <published>2019-09-24T23:26:00-03:00</published>
+    <updated>2019-09-24T23:26:31-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://feitocomarte.com/blogs/projetos-recentes/projeto-theo"/>
+    <title>Toy para Marcos</title>
+    <author>
+      <name>Odette Fenton</name>
+    </author>
+    <content type="html">
+      <![CDATA[<meta charset="utf-8">
+<p>Esse projeto foi uma encomenda do Marcos para presentear a sua mãe Nelly , tutora do Toy da raça  yorkshire terrier no<span> tamanho de tela 50x60cm com um fundo em azul.<br><br><img src="//cdn.shopify.com/s/files/1/0101/3311/0835/files/1_Theo_foto_large.jpg?v=1569187141" alt="Theo -  Foto original"><br></span></p>
+<p><span>As proporções reais foram preservadas. </span></p>
+<p>Agora vamos ver os passos do nosso projeto:</p>
+<h3>Fase 1: Croqui</h3>
+<p> <img src="//cdn.shopify.com/s/files/1/0101/3311/0835/files/304920552303201_large.jpg?v=1569187167" alt="Theo - Croqui"></p>
+<h3>Fase 2: Base</h3>
+<p> <img src="//cdn.shopify.com/s/files/1/0101/3311/0835/files/3_Theo_base_large.jpg?v=1569187188" alt="Theo - Base"></p>
+<h3>Fase 3: Detalhes</h3>
+<p><img src="//cdn.shopify.com/s/files/1/0101/3311/0835/files/4_Theo_detalhes_large.jpg?v=1569187208" alt="Theo - Detalhes"></p>
+<h3>Fase 4: Final</h3>
+<p><img src="//cdn.shopify.com/s/files/1/0101/3311/0835/files/304706416357201_large.jpg?v=1569193825" alt=""></p>
+<p><span></span>Este foi mais um projeto realizado pela Feito com Artes &amp; Pets. Agradecemos pela confiança em nosso trabalho e gostamos de frisar que cada projeto é especial para nós!</p>
+<p>Grande Abraço,<br>Dettinha.</p>
+<p> </p>]]>
+    </content>
+  </entry>
+</feed>

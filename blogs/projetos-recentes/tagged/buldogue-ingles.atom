@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://feitocomarte.com/blogs/projetos-recentes.atom</id>
+  <link rel="alternate" type="text/html" href="https://feitocomarte.com/blogs/projetos-recentes"/>
+  <link rel="self" type="application/atom+xml" href="https://feitocomarte.com/blogs/projetos-recentes/tagged/buldogue-ingles.atom"/>
+  <title>Feito com arte &amp; pets - Projetos Recentes</title>
+  <updated>2019-10-27T15:09:00-03:00</updated>
+  <author>
+    <name>Feito com arte &amp; pets</name>
+  </author>
+  <entry>
+    <id>https://feitocomarte.com/blogs/projetos-recentes/thor-para-fabricio-e-lilian</id>
+    <published>2019-09-24T23:23:00-03:00</published>
+    <updated>2019-09-24T23:23:57-03:00</updated>
+    <link rel="alternate" type="text/html" href="https://feitocomarte.com/blogs/projetos-recentes/thor-para-fabricio-e-lilian"/>
+    <title>Thor para Fabricio e Lilian</title>
+    <author>
+      <name>Odette Fenton</name>
+    </author>
+    <content type="html">
+      <![CDATA[<meta charset="utf-8">
+<p>No projeto feito para Fabricio e Lilian realizamos a pintura do Thor da raça buldogue inglês <span>em um tamanho de tela 50x50 cm com um fundo azul acinzentado.<br><br><img src="//cdn.shopify.com/s/files/1/0101/3311/0835/files/IMG-20190318-WA0082_large.jpg?v=1569194517" alt=""><br></span></p>
+<p><span>Acima temos a foto que deu origem ao projeto.</span></p>
+<p><span>As proporções reais foram preservadas. </span></p>
+<p>Agora vamos ver os passos do nosso projeto:</p>
+<h3>Fase 1: Croqui</h3>
+<p><img src="//cdn.shopify.com/s/files/1/0101/3311/0835/files/305092389082201_large.jpg?v=1569184992" alt="Thor - Croqui"></p>
+<h3>Fase 2: Base</h3>
+<p><img src="//cdn.shopify.com/s/files/1/0101/3311/0835/files/IMG_20190726_012836368_large.jpg?v=1569185351" alt=" Thor - Base"></p>
+<h3>Fase 3: Detalhes</h3>
+<p><img src="//cdn.shopify.com/s/files/1/0101/3311/0835/files/IMG_20190726_032423466_large.jpg?v=1569185386" alt=" Thor - Detalhes"></p>
+<h3>Fase 4: Final</h3>
+<p><img src="//cdn.shopify.com/s/files/1/0101/3311/0835/files/IMG_20190726_160419486_large.jpg?v=1569185427" alt=" Thor - Resultado final"></p>
+<p><img src="//cdn.shopify.com/s/files/1/0101/3311/0835/files/IMG_20190726_160406176_large.jpg?v=1569185456" alt=" Thor - Resultado final entrega"></p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/vbPkE-WBSz8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+<p><span></span>Este foi mais um projeto realizado pela Feito com Artes &amp; Pets. Agradecemos pela confiança em nosso trabalho e gostamos de frisar que cada projeto é especial para nós!</p>
+<p>Grande Abraço,<br>Dettinha.</p>
+<p> </p>]]>
+    </content>
+  </entry>
+</feed>
